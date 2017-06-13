@@ -1,0 +1,21 @@
+{
+  "name": "Practica-web-gulp-sass",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeloLuna/Practica-web-gulp-sass.git"
+  },
+  "author": "jelpmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angeloLuna/Practica-web-gulp-sass/issues"
+  },
+  "homepage": "https://github.com/angeloLuna/Practica-web-gulp-sass#readme",
+  "devDependencies": {
+    "gulp-sass": "^3.1.0"
+  }
+}
